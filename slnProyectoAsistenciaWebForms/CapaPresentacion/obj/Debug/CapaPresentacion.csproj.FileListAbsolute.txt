@@ -1,0 +1,201 @@
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\CapaPresentacion.dll.config
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\CapaPresentacion.dll
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\CapaPresentacion.pdb
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\csc.exe
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\csc.exe.config
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\csc.rsp
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\csi.exe
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\csi.exe.config
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\csi.rsp
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.AppContext.dll
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Console.dll
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.IO.Compression.dll
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Security.Claims.dll
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.ValueTuple.dll
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\vbc.exe
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\vbc.exe.config
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\vbc.rsp
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\CapaNegocio.dll
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\CapaNegocio.pdb
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\EntityFramework.dll
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\EntityFramework.SqlServer.dll
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\CapaDatos.dll
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\EntityFramework.xml
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\EntityFramework.SqlServer.xml
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\CapaDatos.pdb
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaPresentacion\bin\CapaDatos.dll.config
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\CapaPresentacion.dll.config
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\CapaPresentacion.dll
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\CapaPresentacion.pdb
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\csc.exe
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\csc.exe.config
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\csc.rsp
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\csi.exe
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\csi.exe.config
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\csi.rsp
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.AppContext.dll
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Console.dll
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.IO.Compression.dll
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.IO.Pipes.dll
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Security.Claims.dll
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Threading.Thread.dll
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.ValueTuple.dll
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Xml.XPath.dll
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\vbc.exe
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\vbc.exe.config
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\vbc.rsp
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\CapaNegocio.dll
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\EntityFramework.dll
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\EntityFramework.SqlServer.dll
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\CapaDatos.dll
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\CapaNegocio.pdb
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\EntityFramework.xml
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\EntityFramework.SqlServer.xml
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\CapaDatos.pdb
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\bin\CapaDatos.dll.config
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\CapaPresentacion.dll.config
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\CapaPresentacion.dll
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\CapaPresentacion.pdb
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\csc.exe
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\csc.exe.config
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\csc.rsp
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\csi.exe
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\csi.exe.config
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\csi.rsp
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.AppContext.dll
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Console.dll
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.IO.Compression.dll
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Security.Claims.dll
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.ValueTuple.dll
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\vbc.exe
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\vbc.exe.config
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\vbc.rsp
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\CapaNegocio.dll
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\EntityFramework.dll
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\EntityFramework.SqlServer.dll
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\CapaDatos.dll
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\CapaNegocio.pdb
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\EntityFramework.xml
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\EntityFramework.SqlServer.xml
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\CapaDatos.pdb
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\bin\CapaDatos.dll.config
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

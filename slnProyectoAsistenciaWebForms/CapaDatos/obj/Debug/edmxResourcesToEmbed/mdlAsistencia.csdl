@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="dbAsistenciaV2Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="tblAsistencia">
+    <Key>
+      <PropertyRef Name="Id_Asistencia" />
+    </Key>
+    <Property Name="Id_Asistencia" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FechaAsistencia" Type="DateTime" Precision="3" />
+    <Property Name="HoraInicioAsistencia" Type="Time" Precision="7" />
+    <Property Name="HoraFinAsistencia" Type="Time" Precision="7" />
+    <Property Name="MateriaAsistencia" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="NombreEstudianteAsistencia" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ApellidoEstudianteAsistencia" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="NombreMaestroAsistencia" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ApellidoMaestreAsistencia" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Asistencia" Type="Int32" />
+  </EntityType>
+  <EntityType Name="tblHora">
+    <Key>
+      <PropertyRef Name="Id_Hora" />
+    </Key>
+    <Property Name="Id_Hora" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NombreMaestroHora" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ApellidoMaestroHora" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="NombreCompletoMaestroHora" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="UsuarioMaestroHora" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="MateriaHora" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="InicioHora" Type="Time" Precision="7" />
+    <Property Name="FinHora" Type="Time" Precision="7" />
+  </EntityType>
+  <EntityType Name="tblMateria">
+    <Key>
+      <PropertyRef Name="Id_Materia" />
+    </Key>
+    <Property Name="Id_Materia" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NombreMateria" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="CodigoMateria" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="SalaMateria" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="tblRelaAlumMater">
+    <Key>
+      <PropertyRef Name="Id_RAM" />
+    </Key>
+    <Property Name="Id_RAM" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NombreAlumnoRAM" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ApellidoAlumnoRAM" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="UsuarioAlumnoRAM" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="NombreCompletoRAM" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="MateriaRAM" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Asistencia" Type="Int32" />
+  </EntityType>
+  <EntityType Name="tblRelaMaesMater">
+    <Key>
+      <PropertyRef Name="Id_RMM" />
+    </Key>
+    <Property Name="Id_RMM" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NombreMaestroRMM" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ApellidoMaestroRMM" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="UsuarioMaestroRMM" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="NombreCompletoRMM" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="MateriaRMM" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="tblUsuario">
+    <Key>
+      <PropertyRef Name="Id_Usuario" />
+    </Key>
+    <Property Name="Id_Usuario" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NombreUsuario" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ApellidoUsuario" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="UsernameUsuario" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PasswordUsuario" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="TipoUsuario" Type="Int32" Nullable="false" />
+    <Property Name="TituloUsuario" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityContainer Name="dbAsistenciaV2Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="tblAsistencia" EntityType="Self.tblAsistencia" />
+    <EntitySet Name="tblHora" EntityType="Self.tblHora" />
+    <EntitySet Name="tblMateria" EntityType="Self.tblMateria" />
+    <EntitySet Name="tblRelaAlumMater" EntityType="Self.tblRelaAlumMater" />
+    <EntitySet Name="tblRelaMaesMater" EntityType="Self.tblRelaMaesMater" />
+    <EntitySet Name="tblUsuario" EntityType="Self.tblUsuario" />
+  </EntityContainer>
+</Schema>

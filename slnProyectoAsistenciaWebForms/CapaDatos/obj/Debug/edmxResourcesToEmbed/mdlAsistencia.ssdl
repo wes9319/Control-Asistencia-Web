@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="dbAsistenciaV2Model.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="dbAsistenciaV2ModelStoreContainer">
+    <EntitySet Name="tblAsistencia" EntityType="dbAsistenciaV2Model.Store.tblAsistencia" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="tblHora" EntityType="dbAsistenciaV2Model.Store.tblHora" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="tblMateria" EntityType="dbAsistenciaV2Model.Store.tblMateria" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="tblRelaAlumMater" EntityType="dbAsistenciaV2Model.Store.tblRelaAlumMater" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="tblRelaMaesMater" EntityType="dbAsistenciaV2Model.Store.tblRelaMaesMater" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="tblUsuario" EntityType="dbAsistenciaV2Model.Store.tblUsuario" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="tblAsistencia">
+    <Key>
+      <PropertyRef Name="Id_Asistencia" />
+    </Key>
+    <Property Name="Id_Asistencia" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FechaAsistencia" Type="datetime" Nullable="true" />
+    <Property Name="HoraInicioAsistencia" Type="time" Nullable="true" Precision="7" />
+    <Property Name="HoraFinAsistencia" Type="time" Nullable="true" Precision="7" />
+    <Property Name="MateriaAsistencia" Type="varchar" Nullable="true" MaxLength="50" />
+    <Property Name="NombreEstudianteAsistencia" Type="varchar" Nullable="true" MaxLength="50" />
+    <Property Name="ApellidoEstudianteAsistencia" Type="varchar" Nullable="true" MaxLength="50" />
+    <Property Name="NombreMaestroAsistencia" Type="varchar" Nullable="true" MaxLength="50" />
+    <Property Name="ApellidoMaestreAsistencia" Type="varchar" Nullable="true" MaxLength="50" />
+    <Property Name="Asistencia" Type="int" Nullable="true" />
+  </EntityType>
+  <EntityType Name="tblHora">
+    <Key>
+      <PropertyRef Name="Id_Hora" />
+    </Key>
+    <Property Name="Id_Hora" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NombreMaestroHora" Type="varchar" Nullable="true" MaxLength="50" />
+    <Property Name="ApellidoMaestroHora" Type="varchar" Nullable="true" MaxLength="50" />
+    <Property Name="NombreCompletoMaestroHora" Type="varchar" Nullable="true" MaxLength="50" />
+    <Property Name="UsuarioMaestroHora" Type="varchar" Nullable="true" MaxLength="50" />
+    <Property Name="MateriaHora" Type="varchar" Nullable="true" MaxLength="50" />
+    <Property Name="InicioHora" Type="time" Nullable="true" Precision="7" />
+    <Property Name="FinHora" Type="time" Nullable="true" Precision="7" />
+  </EntityType>
+  <EntityType Name="tblMateria">
+    <Key>
+      <PropertyRef Name="Id_Materia" />
+    </Key>
+    <Property Name="Id_Materia" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NombreMateria" Type="varchar" Nullable="true" MaxLength="50" />
+    <Property Name="CodigoMateria" Type="varchar" Nullable="true" MaxLength="50" />
+    <Property Name="SalaMateria" Type="varchar" Nullable="true" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="tblRelaAlumMater">
+    <Key>
+      <PropertyRef Name="Id_RAM" />
+    </Key>
+    <Property Name="Id_RAM" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NombreAlumnoRAM" Type="varchar" Nullable="true" MaxLength="50" />
+    <Property Name="ApellidoAlumnoRAM" Type="varchar" Nullable="true" MaxLength="50" />
+    <Property Name="UsuarioAlumnoRAM" Type="varchar" Nullable="true" MaxLength="50" />
+    <Property Name="NombreCompletoRAM" Type="varchar" Nullable="true" MaxLength="50" />
+    <Property Name="MateriaRAM" Type="varchar" Nullable="true" MaxLength="50" />
+    <Property Name="Asistencia" Type="int" Nullable="true" />
+  </EntityType>
+  <EntityType Name="tblRelaMaesMater">
+    <Key>
+      <PropertyRef Name="Id_RMM" />
+    </Key>
+    <Property Name="Id_RMM" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NombreMaestroRMM" Type="varchar" Nullable="true" MaxLength="50" />
+    <Property Name="ApellidoMaestroRMM" Type="varchar" Nullable="true" MaxLength="50" />
+    <Property Name="UsuarioMaestroRMM" Type="varchar" Nullable="true" MaxLength="50" />
+    <Property Name="NombreCompletoRMM" Type="varchar" Nullable="true" MaxLength="50" />
+    <Property Name="MateriaRMM" Type="varchar" Nullable="true" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="tblUsuario">
+    <Key>
+      <PropertyRef Name="Id_Usuario" />
+    </Key>
+    <Property Name="Id_Usuario" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NombreUsuario" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="ApellidoUsuario" Type="varchar" Nullable="true" MaxLength="50" />
+    <Property Name="UsernameUsuario" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="PasswordUsuario" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="TipoUsuario" Type="int" Nullable="false" />
+    <Property Name="TituloUsuario" Type="varchar" Nullable="true" MaxLength="50" />
+  </EntityType>
+</Schema>

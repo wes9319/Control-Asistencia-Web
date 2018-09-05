@@ -1,0 +1,36 @@
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaDatos\bin\Debug\EntityFramework.dll
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaDatos\bin\Debug\EntityFramework.xml
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Wesley\Documents\Visual Studio 2017\slnProyectoFinal\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaDatos\bin\Debug\EntityFramework.dll
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaDatos\bin\Debug\EntityFramework.xml
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\cisco\Desktop\slnProyectoFinal\slnProyectoFinal\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaDatos\bin\Debug\EntityFramework.dll
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaDatos\bin\Debug\EntityFramework.xml
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Wesley\Documents\slnProyectoFinal\CapaDatos\obj\Debug\CapaDatos.pdb

@@ -1,0 +1,63 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Alumno.master.cs" Inherits="CapaPresentacion.Alumno" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            text-align: center;
+        }
+    </style>
+    <link href="Style1.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            
+                <table style="width:100%;">
+                    <tr>
+                        <td class="auto-style1">
+                            <asp:Image ID="Image1" runat="server" Height="75px" ImageUrl="~/Images/LOGO SEMBRAR.jpg" style="text-align: center" Width="100px" />
+                        </td>
+                        <td class="auto-style1">
+                            <h2 class="auto-style1">Sistema de Asistencia Educativa - ALUMNO</h2>
+                        </td>
+                        <td class="auto-style1">
+                            <asp:Label ID="lblUsuario" runat="server"></asp:Label>
+                            <br />
+                            <br />
+                            <asp:HyperLink ID="hlAtras" runat="server">Salir</asp:HyperLink>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <asp:Menu ID="Menu1" runat="server">
+                                <Items>
+                                    <asp:MenuItem NavigateUrl="~/frmAlum_Consulta.aspx" Text="Consulta" Value="Consulta"></asp:MenuItem>
+                                    <asp:MenuItem NavigateUrl="~/frmAlum_Porcentaje.aspx" Text="Porcentaje de Asistencia" Value="Porcentaje de Asistencia"></asp:MenuItem>
+                                </Items>
+                            </asp:Menu>
+                        </td>
+                        <td>
+                            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+
+                            </asp:ContentPlaceHolder>
+
+                        </td>
+                        <td>&nbsp;</td>
+                    </tr>
+                    <tr>
+                        <td>&nbsp;</td>
+                        <td>&nbsp;</td>
+                        <td>&nbsp;</td>
+                    </tr>
+                </table>
+            
+        </div>
+    </form>
+</body>
+</html>

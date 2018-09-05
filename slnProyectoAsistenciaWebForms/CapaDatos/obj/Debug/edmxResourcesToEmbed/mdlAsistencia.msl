@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="dbAsistenciaV2ModelStoreContainer" CdmEntityContainer="dbAsistenciaV2Entities">
+    <EntitySetMapping Name="tblAsistencia">
+      <EntityTypeMapping TypeName="IsTypeOf(dbAsistenciaV2Model.tblAsistencia)">
+        <MappingFragment StoreEntitySet="tblAsistencia">
+          <ScalarProperty Name="Id_Asistencia" ColumnName="Id_Asistencia" />
+          <ScalarProperty Name="FechaAsistencia" ColumnName="FechaAsistencia" />
+          <ScalarProperty Name="HoraInicioAsistencia" ColumnName="HoraInicioAsistencia" />
+          <ScalarProperty Name="HoraFinAsistencia" ColumnName="HoraFinAsistencia" />
+          <ScalarProperty Name="MateriaAsistencia" ColumnName="MateriaAsistencia" />
+          <ScalarProperty Name="NombreEstudianteAsistencia" ColumnName="NombreEstudianteAsistencia" />
+          <ScalarProperty Name="ApellidoEstudianteAsistencia" ColumnName="ApellidoEstudianteAsistencia" />
+          <ScalarProperty Name="NombreMaestroAsistencia" ColumnName="NombreMaestroAsistencia" />
+          <ScalarProperty Name="ApellidoMaestreAsistencia" ColumnName="ApellidoMaestreAsistencia" />
+          <ScalarProperty Name="Asistencia" ColumnName="Asistencia" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblHora">
+      <EntityTypeMapping TypeName="IsTypeOf(dbAsistenciaV2Model.tblHora)">
+        <MappingFragment StoreEntitySet="tblHora">
+          <ScalarProperty Name="Id_Hora" ColumnName="Id_Hora" />
+          <ScalarProperty Name="NombreMaestroHora" ColumnName="NombreMaestroHora" />
+          <ScalarProperty Name="ApellidoMaestroHora" ColumnName="ApellidoMaestroHora" />
+          <ScalarProperty Name="NombreCompletoMaestroHora" ColumnName="NombreCompletoMaestroHora" />
+          <ScalarProperty Name="UsuarioMaestroHora" ColumnName="UsuarioMaestroHora" />
+          <ScalarProperty Name="MateriaHora" ColumnName="MateriaHora" />
+          <ScalarProperty Name="InicioHora" ColumnName="InicioHora" />
+          <ScalarProperty Name="FinHora" ColumnName="FinHora" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblMateria">
+      <EntityTypeMapping TypeName="IsTypeOf(dbAsistenciaV2Model.tblMateria)">
+        <MappingFragment StoreEntitySet="tblMateria">
+          <ScalarProperty Name="Id_Materia" ColumnName="Id_Materia" />
+          <ScalarProperty Name="NombreMateria" ColumnName="NombreMateria" />
+          <ScalarProperty Name="CodigoMateria" ColumnName="CodigoMateria" />
+          <ScalarProperty Name="SalaMateria" ColumnName="SalaMateria" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblRelaAlumMater">
+      <EntityTypeMapping TypeName="IsTypeOf(dbAsistenciaV2Model.tblRelaAlumMater)">
+        <MappingFragment StoreEntitySet="tblRelaAlumMater">
+          <ScalarProperty Name="Id_RAM" ColumnName="Id_RAM" />
+          <ScalarProperty Name="NombreAlumnoRAM" ColumnName="NombreAlumnoRAM" />
+          <ScalarProperty Name="ApellidoAlumnoRAM" ColumnName="ApellidoAlumnoRAM" />
+          <ScalarProperty Name="UsuarioAlumnoRAM" ColumnName="UsuarioAlumnoRAM" />
+          <ScalarProperty Name="NombreCompletoRAM" ColumnName="NombreCompletoRAM" />
+          <ScalarProperty Name="MateriaRAM" ColumnName="MateriaRAM" />
+          <ScalarProperty Name="Asistencia" ColumnName="Asistencia" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblRelaMaesMater">
+      <EntityTypeMapping TypeName="IsTypeOf(dbAsistenciaV2Model.tblRelaMaesMater)">
+        <MappingFragment StoreEntitySet="tblRelaMaesMater">
+          <ScalarProperty Name="Id_RMM" ColumnName="Id_RMM" />
+          <ScalarProperty Name="NombreMaestroRMM" ColumnName="NombreMaestroRMM" />
+          <ScalarProperty Name="ApellidoMaestroRMM" ColumnName="ApellidoMaestroRMM" />
+          <ScalarProperty Name="UsuarioMaestroRMM" ColumnName="UsuarioMaestroRMM" />
+          <ScalarProperty Name="NombreCompletoRMM" ColumnName="NombreCompletoRMM" />
+          <ScalarProperty Name="MateriaRMM" ColumnName="MateriaRMM" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblUsuario">
+      <EntityTypeMapping TypeName="IsTypeOf(dbAsistenciaV2Model.tblUsuario)">
+        <MappingFragment StoreEntitySet="tblUsuario">
+          <ScalarProperty Name="Id_Usuario" ColumnName="Id_Usuario" />
+          <ScalarProperty Name="NombreUsuario" ColumnName="NombreUsuario" />
+          <ScalarProperty Name="ApellidoUsuario" ColumnName="ApellidoUsuario" />
+          <ScalarProperty Name="UsernameUsuario" ColumnName="UsernameUsuario" />
+          <ScalarProperty Name="PasswordUsuario" ColumnName="PasswordUsuario" />
+          <ScalarProperty Name="TipoUsuario" ColumnName="TipoUsuario" />
+          <ScalarProperty Name="TituloUsuario" ColumnName="TituloUsuario" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
